@@ -5,7 +5,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-hash =  {:cheese "chedder" :olives "green"}
+hash =  {cheese: "chedder" olives: "green"}
 return hash
 end
 
