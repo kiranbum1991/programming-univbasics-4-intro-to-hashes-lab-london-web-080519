@@ -5,6 +5,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
+  {:cheese "chedder", :olives "green"}
 end
 
 def pioneer
